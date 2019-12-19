@@ -1,0 +1,156 @@
+* {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.5px;
+  line-height: 1.33;
+
+  color: #5c5b57 !important;
+}
+
+#bst_body {
+  background-color: #dad9d5;
+}
+.nav-link {
+  color: #7bb5c0;
+}
+
+img {
+  width: 100%;
+  margin: 0;
+}
+#bst_nav :hover {
+  color: #c0896a;
+}
+h3 {
+  color: #5c5b57 !important;
+}
+
+p {
+  color: #5c5b57 !important;
+}
+#title {
+  color: #040a0a;
+  overflow: hidden;
+  z-index: -1;
+}
+.bst_font {
+  color: #5c5b57;
+}
+
+#img {
+  filter: none;
+  -webkit-filter: grayscale(75%);
+  -moz-filter: grayscale(75%);
+  -ms-filter: grayscale(75%);
+  -o-filter: grayscale(75%);
+}
+.bst_font_img {
+  color: #040a0a;
+  background-color: rgba(0, 0, 0, 0);
+  font-size: 5em;
+}
+.bst_about {
+  color: #7bb5c0;
+  font-weight: 300;
+  font-size: larger;
+  background-color: #e9ecef;
+}
+#bst_container {
+  position: relative;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+#bst_container2 {
+  position: relative;
+  margin: 20px;
+  padding: 2px;
+}
+
+.top-left {
+  position: absolute;
+  top: 7rem;
+  left: 10rem;
+  text-shadow: -1px 0 white;
+}
+
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  text-shadow: -1px 0 white;
+}
+
+h5 {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+ul {
+  text-align: left !important;
+  padding: 0;
+  margin: 0;
+}
+
+th {
+  font-weight: 600;
+  text-decoration: underline;
+  margin: 5px;
+  padding: 5px 20px;
+  color: #5c5b57 !important;
+  font-size: large;
+}
+td {
+  padding: 5px 20px;
+  margin: 5px;
+  color: #5c5b57 !important;
+  font-size: larger;
+}
+ul {
+  color: #5c5b57 !important;
+  font-weight: 300;
+  font-size: larger;
+  margin: 1.35em;
+}
+
+li {
+  color: #5c5b57 !important;
+  font-weight: 300;
+  font-size: larger;
+}
+#bst_line {
+  content: " ";
+  display: block;
+  font-weight: 500;
+  border-bottom: 3px solid #7bb5c0;
+  margin: 1em;
+}
+#jumbo_h1 {
+  background-color: #e9ecef;
+  font-weight: 500;
+  color: #5c5b57 !important;
+}
+
+#bst_jumbo {
+  color: #5c5b57 !important;
+  background-color: #e9ecef;
+}
+
+th td {
+  color: #5c5b57 !important;
+  font-weight: 300;
+  font-size: larger;
+}
+.contact_form {
+  font-size: 1.5em;
+  margin: 0.5em;
+  padding-right: 1em;
+}
+
+.input {
+  margin: 1em;
+}
+
+.bst_about {
+  margin-top: 0.5em;
+}
